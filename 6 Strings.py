@@ -1,1 +1,1 @@
-# Note that s[~i] for i in [0, len(s)-1] is s[-(i+1)]
+# Note that s[~i] for i in [0, len(s)-1] is s[-(i+1)] useless to know, though, s[-i-1] should be enough
